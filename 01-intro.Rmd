@@ -1,0 +1,40 @@
+# Hypotheses {#hyp}
+
+What causes succulent plant species distribution in the Knersvlakte? 
+
+
+##Hypothesis 1 {#hyp1}
+
+**Abiotic variables determine species distribution.**
+
+Predictions:
+
+* Distribution can be predicted based on envirnomental variables alone.
+* Ability to predict abundance and occurrence differs.
+    * Occurrence is due to environmental filtering. Only species with the correct traits can occur in a given set of abiotic variables [@DelaRiva2016]
+    * Abundance is due to biotic interactions, which influence competition and therefore coexistence [@DelaRiva2016]
+
+##Hypothesis 2 {#hyp2}
+
+**Biotic variables determine species distribution**
+
+Predictions:
+
+* Distribution can be predicted based on other species occurrence.
+* Should be correlations between the occurrence of species.
+* Large species shouldn't co-occur due to a larger niche overlap
+
+##Hypothesis 3 {#hyp3}
+
+**The determinants of distribution depend on plant size
+
+Predictions:
+
+* Smaller species are easier to predict based on abiotic variables
+* Large species shouldn't co-occur due to a larger niche overlap
+
+See \@ref(hyp1)
+
+
+
+
