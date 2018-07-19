@@ -1,0 +1,9 @@
+# Methods
+
+##Analysis
+
+###JSDM
+
+A joint model is a parametric model of abundance for multiple species. It models the response to environmental predictors while simultaneously accounting for correlations between taxa [@Warton2015]. The model incorporates latent variables, which act as missing predictors. The relationship between the response variable and the latent variable is known as the factor loadings. Factor loadings estimate the strength of the correlation between the abundance for different taxa and the latent variable. If two taxa correlate with the LV, then they also correlate with each other. Ie LVs induce correlations between taxa. Therefore LVM is computationally efficient compared to GLMMs, GLMMs estimate the correlation between every single taxa which results in a huge matrix of parameters to compute. The model complexity can be increased by adding more LVs, but generally less than 5 is enough to model most interactions. 
+
+Correlation between taxa could be due to biotic interactions, although it could also be a joint response to unmeasured predictors or due to a misspecification of the model.
