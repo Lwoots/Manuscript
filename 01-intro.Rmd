@@ -9,11 +9,8 @@ What causes succulent plant species distribution in the Knersvlakte?
 
 Predictions:
 
-* Distribution can be predicted based on envirnomental variables alone.
-* Ability to predict abundance and occurrence differs.
-    * Occurrence is due to environmental filtering. Only species with the correct traits can occur in a given set of abiotic variables [@DelaRiva2016].
-    * Abundance is due to biotic interactions, which influence competition and coexistence [@Cingolani2007; @deBello2013; @DelaRiva2016].
-    * Therefore, abiotic variables should predict occurrence better than abundance [@Bou2012].
+* Distribution can be predicted based on environmental variables alone.
+* There is no difference in the ability of environmental variables to predict abundance and occurrence (see \@ref(hyp2)).
 
 ##Hypothesis 2 {#hyp2}
 
@@ -28,7 +25,10 @@ Predictions:
     *  Large species have a larger niche overlap than small species, resulting in greater competition [@Dombroskie2010].    
 * Presence of a large individual should increase the number of small individuals.
     * Nursery plant hypothesis - protect smaller plants from harsh environments [@Reyes-Olivas2002]
-    
+* Ability to predict abundance and occurrence differs.
+    * Occurrence is due to environmental filtering. Only species with the correct traits can occur in a given set of abiotic variables [@DelaRiva2016].
+    * Abundance is due to biotic interactions, which influence competition and coexistence [@Cingolani2007; @deBello2013; @DelaRiva2016].
+    * Therefore, biotic variables should be more important in predicting abundance than occurrence [@Bou2012]
 
 ##Hypothesis 3 {#hyp3}
 
@@ -41,6 +41,8 @@ Predictions:
 * Large species shouldn't co-occur due to a larger niche overlap (see \@ref(hyp2))
 
 See \@ref(hyp1)
+
+
 
 
 
