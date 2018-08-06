@@ -49,7 +49,8 @@ axis(side = 2, line = -1, at = seq(1,11,1), tick = F, las = 1,
 
 Soil samples from 151 plots were used for soil property analysis. These were selected from every second plot from every second row (Fig. \@ref(fig:grid)). An additional 49 samples were randomly selected from sites 1 and 2, while 53 were randomly selected from site 3.
 
-The soil fractions between 1 - 2 mm and 2 - 5mm were weighed and discarded. The remaining soil was then quartered to ensure that a representive fraction of soil was used in further analyses. The samples were sent to the Elsenburg Soil, Plant and Water Laboratory, Stellenbosch, for analysis of Ca, Mg, Na, K, inorganic P, Olsen P and acidity. Soil particle sizes were measured with a Malvern Mastersizer 2000 (Malvern Instruments Ltd, Malvern, UK), after being suspended in water to allow organic matter to float to the surface and be removed by hand.
+The soil fractions between 1 - 2 mm and 2 - 5mm were weighed and discarded. The remaining soil was then quartered to ensure that a representive fraction of soil was used in further analyses. The samples were sent to the Elsenburg Soil, Plant and Water Laboratory, Stellenbosch, for analysis of Ca, Mg, Na, K, inorganic P, Olsen P and acidity. Soil particle sizes were measured with a Malvern Mastersizer 2000 (Malvern Instruments Ltd, Malvern, UK), after being suspended in water to allow organic matter to float to the surface and be removed by hand. The resulting particle size distributions were then divided into sand (62 - 1000 $\mu$m), silt (4 - 62 $\mu$m) and clay (0 - 4 $\mu$m) size classes. 
+
 
 ##Drone imagery 
 
